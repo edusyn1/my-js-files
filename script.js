@@ -1,4 +1,4 @@
- <script>
+
     const apiKey = 'EoTk15gWWQCjGaSFs8yYZPZS';
 
     const fileInput = document.getElementById('file-input');
@@ -40,4 +40,4 @@
         console.error(err);
       });
     });
-  </script>
+ 
